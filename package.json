@@ -1,6 +1,6 @@
 {
   "name": "tangs_learn_npm",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "learn npm",
   "main": "index.js",
   "dependencies": {
